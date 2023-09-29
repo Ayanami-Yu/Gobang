@@ -7,3 +7,5 @@
 - Zobrist hashing to reduce repeated search.
 
 Screenshots:
+![](https://github.com/Ayanami-Yu/Gobang/blob/main/Screenshots/UI%20(1).png)
+![](https://github.com/Ayanami-Yu/Gobang/blob/main/Screenshots/UI%20(2).png)
